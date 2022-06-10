@@ -80,13 +80,15 @@ function buildCharts(sample) {
     var yticks = ids.slice(0, 10).map(otuID => `OTU ${otuID}`).reverse();
     
     // 8. Create the trace for the bar chart. 
-    var barData = {
+    var barData = [
+      {
       x: values.slice(0, 10).reverse(),
       y: yticks,
       type: "bar",
       orientation: "h",
       text: labels.slice(0, 10).reverse()
-    };
+      }
+    ];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
       title: "Top 10 Bacteria Cultures Found"
@@ -97,7 +99,8 @@ function buildCharts(sample) {
  // Bubble chart
 
     // 1. Create the trace for the bubble chart.
-    var bubbleData = {
+    var bubbleData = [
+      {
       x: ids,
       y: values,
       text: labels,
@@ -107,7 +110,8 @@ function buildCharts(sample) {
           color: values,
           colorscale: "Jet"
         }
-    };
+      }
+    ];
 
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
@@ -123,7 +127,7 @@ function buildCharts(sample) {
 
 
     // 4. Create the trace for the gauge chart.
-    var gaugeData = {
+    var gaugeData = [{
       value: wfreqs,
       type: "indicator",
       mode: "gauge+number",
@@ -139,7 +143,8 @@ function buildCharts(sample) {
           {range: [8,10], color: "green"}
         ]
       }
-    };
+      }
+    ];
 
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
