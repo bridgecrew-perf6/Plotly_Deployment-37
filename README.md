@@ -32,13 +32,13 @@ Please click on this link to access the dashboard. https://markwin89.github.io/P
 Interactive dashboard that holds data for all the volunteers.  In order to access 
 ![Dashboard](https://user-images.githubusercontent.com/101272613/173240109-2ccd46d8-09ac-451c-a82c-029a737bdf11.PNG)
 ### Charts
-  - Bar Chart
+Bar Chart
   - ![Bar Chart Image](https://user-images.githubusercontent.com/101272613/173240119-ddd01ecf-9e73-41cc-8e23-89ff9c7fe1bd.PNG)
 
-  - Bubble Chart
+Bubble Chart
   - ![Bubble Chart Image](https://user-images.githubusercontent.com/101272613/173240125-94521220-6d0d-4a72-83e6-b9d272f662ac.PNG)
 
-  - Gauge Chart
+Gauge Chart
   -![Gauge Image Chart](https://user-images.githubusercontent.com/101272613/173240126-adea57f3-edce-4900-bb28-50dfb5e1c0e6.PNG)
 
 
