@@ -23,7 +23,7 @@ To create a dashboard for the demographic info to visualize bacterial data of ea
   - Added the container for each chart and when the value of Test Subject ID No is changed. 
   - Added the script for plotly and linked the JavaScript file. 
 ![HTML 1](https://user-images.githubusercontent.com/101272613/173240092-e6f141db-fb5a-4a33-8450-bb58028dadc4.PNG)
-![HTML 2](https://user-images.githubusercontent.com/101272613/173240093-2a68855a-66fc-410f-bde4-022215b5c036.PNG)
+![HTML 2](https://user-images.githubusercontent.com/101272613/173240237-2f9525cc-c22a-41e2-83fe-3cfc03e81363.PNG)
 
 
 ## Results
