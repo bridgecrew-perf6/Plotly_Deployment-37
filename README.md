@@ -27,7 +27,7 @@ To create a dashboard for the demographic info to visualize bacterial data of ea
 
 
 ## Results
-Please click on this link to access the dashboard. https://markwin89.github.io/Plotly_Deployment/
+[Link to Interactive Dashboard](https://markwin89.github.io/Plotly_Deployment/)
 ### Dashboard
 Interactive dashboard that holds data for all the volunteers.  In order to access 
 ![Dashboard](https://user-images.githubusercontent.com/101272613/173240109-2ccd46d8-09ac-451c-a82c-029a737bdf11.PNG)
